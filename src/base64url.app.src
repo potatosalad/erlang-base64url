@@ -8,7 +8,6 @@
     stdlib
   ]},
   {env, []},
-  {contributors, ["Vladimir Dronnikov"]},
   {licenses, ["MIT"]},
   {links, [{"Github", "https://github.com/dvv/base64url"}]}
 ]}.
